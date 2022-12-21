@@ -1,0 +1,21 @@
+.App{
+  direction: flex;
+  align-items: center;
+  justify-content: center;
+}
+.App p{
+  
+    direction: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: auto;
+
+}
+.stars{
+  direction: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 90px;
+
+}
+
